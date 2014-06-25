@@ -1,4 +1,4 @@
-Java_XML_Database
-=================
+Java_and_Data
+=============
 
-Java, XML and Database
+Java and Data
